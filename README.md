@@ -1,0 +1,1 @@
+# inheritance-practice-js5
